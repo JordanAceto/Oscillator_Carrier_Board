@@ -10,7 +10,7 @@
 
 ### Here is an example of one of the plug-in boards: [LINK](https://github.com/JordanAceto/CEM3340_VCO "CEM3340 VCO")
 
-![PCB Front](./pics/pcb_front.png) ![PCB Rear](./pics/pcb_rear.png)
+![PCB Front](./main_pcb/pics/pcb_front.png) ![PCB Rear](./main_pcb/pics/pcb_rear.png)
 
 Revision | breadboarded | schematic | pcb layout | built and tested | documentation
 ------|--------------|-----------|------------|------------------|---------------
